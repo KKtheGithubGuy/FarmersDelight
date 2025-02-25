@@ -1,7 +1,18 @@
-{
+{ 
+  "block.farmersdelight.cutting_board": "Chopping Board",
+  
   "block.farmersdelight.gray_canvas_sign": "Grey Canvas Sign",
   "block.farmersdelight.light_gray_canvas_sign": "Light Grey Canvas Sign",
   
   "block.farmersdelight.gray_hanging_canvas_sign": "Grey Hanging Canvas Sign",
-  "block.farmersdelight.light_gray_hanging_canvas_sign": "Light Grey Hanging Canvas Sign"
+  "block.farmersdelight.light_gray_hanging_canvas_sign": "Light Grey Hanging Canvas Sign",
+  
+  "item.farmersdelight.hot_cocoa": "Hot Chocolate",
+  "item.farmersdelight.apple_cider": "Apple Juice",
+  "item.farmersdelight.minced_beef": "Beef Mince",
+  "item.farmersdelight.beef_patty": "Beef Burger",
+  
+  "item.farmersdelight.melon_popsicle": "Melon Ice Lolly",
+  
+  "farmersdelight.jei.info.straw": "A dry plant fibre used in crafting. Obtained by cutting grassy crops and plants with a Knife."
 }
